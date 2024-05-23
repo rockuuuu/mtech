@@ -1,1 +1,2 @@
 MTech first sem result = 7.0
+      second sem result = loading
